@@ -17,7 +17,7 @@ Develop dynamic & interactive dashboards with filters and drill-down capability
 
 Publish and share Power BI reports
 
-Tools & Technologies Used Technology	Description : 
+# Tools & Technologies Used Technology	Description : 
 
 Power BI Desktop,	Data modeling & dashboard development,
 Power Query,	Data transformation (ETL),
