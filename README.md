@@ -5,7 +5,7 @@ This repository contains a collection of Power BI projects designed to demonstra
 
 The datasets used across projects represent real-world business scenarios across retail, sales, supply chain, customer support, insurance, and hotel operations. These projects showcase the ability to convert raw data into actionable insights and support decision-making through meaningful visualizations.
 
-🎯 Key Objectives
+Key Objectives :
 
 Transform raw data into structured analytical datasets
 
@@ -17,9 +17,9 @@ Develop dynamic & interactive dashboards with filters and drill-down capability
 
 Publish and share Power BI reports
 
-🛠️ Tools & Technologies Used
-Technology	Description
-Power BI Desktop	Data modeling & dashboard development
-Power Query	Data transformation (ETL)
-DAX	Advanced analytics & KPIs creation
-Power BI Service	Sharing dashboards and workspace collaboration
+Tools & Technologies Used Technology	Description : 
+
+Power BI Desktop,	Data modeling & dashboard development,
+Power Query,	Data transformation (ETL),
+DAX	Advanced analytics & KPIs creation,
+Power BI Service,	Sharing dashboards and workspace collaboration
