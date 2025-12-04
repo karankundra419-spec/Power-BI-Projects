@@ -5,7 +5,7 @@ This repository contains a collection of Power BI projects designed to demonstra
 
 The datasets used across projects represent real-world business scenarios across retail, sales, supply chain, customer support, insurance, and hotel operations. These projects showcase the ability to convert raw data into actionable insights and support decision-making through meaningful visualizations.
 
-Key Objectives :
+# Key Objectives :
 
 Transform raw data into structured analytical datasets
 
